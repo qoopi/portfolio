@@ -33,7 +33,7 @@
 
 * {
   margin: 0;
-  line-height: calc(1em * 0.5rem);
+  padding: 0;
 }
 
 html {
@@ -55,6 +55,7 @@ body {
   font-family: 'Roboto', sans-serif;
   background-color: var(--clr-backgroud);
   color: var(--clr-light);
+  line-height: 1.5;
 }
 
 img,
